@@ -3,7 +3,7 @@ This is the repository for self-learning Java in preparation for summer quant SD
 Of the book [&lt;Head First Java>](https://www.oreilly.com/library/view/head-first-java/0596009208/) as the first step. 
 This contains some sample trial codes in the book.
 
-+ Chpt1. Breaking the Surface
++ Chpt1. Breaking the Surface(chpt1/)
 + Chpt2. A Trip to Objectville
 + Chpt3. Know Your Variables
 + Chpt4. How Objects Behave
