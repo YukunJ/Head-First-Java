@@ -14,3 +14,4 @@ This contains some sample trial codes in the book.
 + Chpt9. Life and Death of an Object
 + Chpt10. Numbers Matter
 + Chpt11. Risky Behavior
++ Chpt12. A Very Graphic Story
