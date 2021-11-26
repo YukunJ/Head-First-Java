@@ -4,15 +4,15 @@ Of the book [&lt;Head First Java>](https://www.oreilly.com/library/view/head-fir
 This contains some sample trial codes in the book.
 
 + [Chpt1. Breaking the Surface](chpt1/)
-+ Chpt2. A Trip to Objectville
-+ Chpt3. Know Your Variables
-+ Chpt4. How Objects Behave
-+ Chpt5. Extra-Strength Methods
-+ Chpt6. Using the Java Library
-+ Chpt7. Better Livining in Objectville
-+ Chpt8. Serious Polymorphism
-+ Chpt9. Life and Death of an Object
-+ Chpt10. Numbers Matter
-+ Chpt11. Risky Behavior
-+ Chpt12. A Very Graphic Story
-+ Chpt13. Work on your Swing
++ [Chpt2. A Trip to Objectville](chpt2/)
++ [Chpt3. Know Your Variables](chpt3/)
++ [Chpt4. How Objects Behave](chpt4/)
++ [Chpt5. Extra-Strength Methods](chpt5/)
++ [Chpt6. Using the Java Library](chpt6/)
++ [Chpt7. Better Livining in Objectville](chpt7/)
++ [Chpt8. Serious Polymorphism](chpt8/)
++ [Chpt9. Life and Death of an Object](chpt9/)
++ [Chpt10. Numbers Matter](chpt10/)
++ [Chpt11. Risky Behavior](chpt11/)
++ [Chpt12. A Very Graphic Story](chpt12/)
++ [Chpt13. Work on your Swing](chpt13/)
